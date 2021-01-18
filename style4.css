@@ -69,8 +69,8 @@
   display: block;
   margin-left: auto;margin-top: 1rem;
   margin-right: auto;
-  height: 20vh;
-  width: 10vw;
+  height: 90px;
+  width: 110px;
 }
 .logo-content h2{
   justify-content: center;
@@ -79,8 +79,8 @@
 }
 @media screen and (max-width: 868px) {
   .logo-content img{
-    width: 35vw;
-    height: 20vh;
+    width: 100px;
+    height: 80px;
   }
 }
 .content{
@@ -267,8 +267,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 25vh;
-  width: 10vw;
+  height: 120px;
+  width: 120px;
 }
 /**/
 .end-of-page .foot-part1 p{
@@ -316,8 +316,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 19vh;
-    width: 22vw;
+    height: 100px;
+    width: 100px;
   }
 }
 @media screen and (max-width: 500px) {
@@ -331,8 +331,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 25vh;
-    width: 50vw;
+    height: 100px;
+    width: 100px;
   }
 }
 
