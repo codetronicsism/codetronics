@@ -74,7 +74,7 @@
   margin: 3rem 5rem;
 }
 .card{
-  height: 305px;
+  height: 280px;
   max-width: 350px;
   margin: 0 20px;
   background: white;
@@ -83,7 +83,7 @@
 }
 .card:hover{
   height: 420px;
-  box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
 }
 .card .img{
   height: 200px;
@@ -111,7 +111,7 @@
   line-height: 20px;
 }
 .card .bottom-text{
-  padding: 0 20px 10px 20px;
+  padding: 0 10px 10px 10px;
   margin-top: 5px;
   background: white;
   opacity: 0;
@@ -151,6 +151,10 @@
     max-width: 700px;
     margin: 20px 0;
   }
+  .card:hover{
+    height: 450px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+  }
 }
 
 /*logo*/
@@ -159,8 +163,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 20vh;
-  width: 10vw;
+  height: 90px;
+  width: 110px;
 }
 .logo-content h2{
   justify-content: center;
@@ -169,8 +173,8 @@
 }
 @media screen and (max-width: 868px) {
   .logo-content img{
-    width: 35vw;
-    height: 20vh;
+    width: 100px;
+    height: 80px;
   }
 }
 /*footer*/
@@ -210,8 +214,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 25vh;
-  width: 10vw;
+  height: 120px;
+  width: 120px;
 }
 /**/
 .end-of-page .foot-part1 p{
@@ -259,8 +263,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 19vh;
-    width: 22vw;
+    height: 100px;
+    width: 100px;
   }
 }
 @media screen and (max-width: 500px) {
@@ -274,8 +278,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 25vh;
-    width: 50vw;
+    height: 100px;
+    width: 100px;
   }
 }
 .btn0{
@@ -349,6 +353,7 @@
   }
   .content p{
     margin: 0 1rem;
+    text-align: center;
   }
   .content .title{
     margin: 0 1rem;
