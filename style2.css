@@ -69,8 +69,8 @@
   display: block;
   margin-left: auto;margin-top: 1rem;
   margin-right: auto;
-  height: 20vh;
-  width: 10vw;
+  height: 90px;
+  width: 110px;
 }
 .logo-content h2{
   justify-content: center;
@@ -79,8 +79,8 @@
 }
 @media screen and (max-width: 868px) {
   .logo-content img{
-    width: 35vw;
-    height: 20vh;
+    width: 100px;
+    height: 80px;
   }
 }
 /*new*/
@@ -150,7 +150,7 @@ h1 {
   margin-right: 1rem;
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 1rem;
+  font-size: .9rem;
   text-align: center;
   padding: 0rem 0.5rem;
   cursor: text;
@@ -166,7 +166,7 @@ h1 {
   text-decoration: none;
   text-transform: uppercase;
   /* font-weight: 900; */
-  font-size: 1rem;
+  font-size: .9rem;
   text-align: center;
   padding: 0rem 0.5rem;
   cursor: pointer;
@@ -227,8 +227,8 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 25vh;
-  width: 10vw;
+  height: 120px;
+  width: 120px;
 }
 /**/
 .end-of-page .foot-part1 p{
@@ -276,8 +276,8 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 19vh;
-    width: 22vw;
+    height: 100px;
+    width: 100px;
   }
 }
 @media screen and (max-width: 500px) {
@@ -291,8 +291,8 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 25vh;
-    width: 50vw;
+    height: 100px;
+    width: 100px;
   }
 }
 /*end footer*/
@@ -401,16 +401,16 @@ h1 {
       font-size: 23px;
     }
     .item1{
-      font-size: .8rem;
+      font-size: .7rem;
     }
     .item2{
-      font-size: .8rem;
+      font-size: .7rem;
     }
     .item3 a{
-      font-size: .8rem;
+      font-size: .7rem;
     }
     .item4 a{
-      font-size: .8rem;
+      font-size: .7rem;
     }
   }
   
