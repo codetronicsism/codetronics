@@ -4,7 +4,7 @@ const memberData = [
     {
         memberName: "Anshuman Choudhary",
         memberDescription:  "Hi, I am Anshuman, I am a Competitive Programmer and ML Enthusiast. || ECE 2021",
-        memberImage: "./images/anshuman.jpeg",
+        memberImage: "./images/anshuman1.jpeg",
         codeforcesLink: "https://codeforces.com/profile/AC_007",
         codechefLink: "https://codechef.com",
         leetcode: "https://leetcode.com",
@@ -44,7 +44,7 @@ const memberData = [
     {
         memberName: "Nikhil Arora",
         memberDescription:"Hi I am Nikhil Arora, I am a Competitive Programmer and ML Enthusiast. || ECE 2021",
-        memberImage: "./images/banner4.jpg",
+        memberImage: "./images/nikhil.jpeg",
         codeforcesLink: "https://codeforces.com",
         codechefLink: "https://codechef.com",
         leetcode: "https://leetcode.com",
@@ -64,7 +64,7 @@ const memberData = [
     {
         memberName: "Kuldeep Gautam",
         memberDescription:"Hi I am Kuldeep Gautam, I am a Competitive Programmer and ML Enthusiast. || ECE 2021",
-        memberImage: "./images/banner4.jpg",
+        memberImage: "./images/kuldeep.jpeg",
         codeforcesLink: "https://codeforces.com",
         codechefLink: "https://codechef.com",
         leetcode: "https://leetcode.com",
@@ -74,7 +74,7 @@ const memberData = [
     {
         memberName: "Abhishek Pal",
         memberDescription:"Hi I am Abhishek Pal, I am a Competitive Programmer and Web Developer. || ECE 2021",
-        memberImage: "./images/banner4.jpg",
+        memberImage: "./images/abhishek.jpeg",
         codeforcesLink: "https://codeforces.com",
         codechefLink: "https://codechef.com",
         leetcode: "https://leetcode.com",
