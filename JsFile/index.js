@@ -179,66 +179,6 @@ const rowItem10 = () => {
     }
   );
 };
-const rowItem11 = () => {
-  topic11.map(list => {
-      const projectCard = new List({
-        itemText1: list.itemText1,
-        itemText2: list.itemText2,
-        link1: list.link1,
-        linkText: list.linkText
-      }).createRowCard();
-      document.getElementById("post-wrapper-id11").appendChild(projectCard);
-    }
-  );
-};
-const rowItem12 = () => {
-  topic12.map(list => {
-      const projectCard = new List({
-        itemText1: list.itemText1,
-        itemText2: list.itemText2,
-        link1: list.link1,
-        linkText: list.linkText
-      }).createRowCard();
-      document.getElementById("post-wrapper-id12").appendChild(projectCard);
-    }
-  );
-};
-const rowItem13 = () => {
-  topic13.map(list => {
-      const projectCard = new List({
-        itemText1: list.itemText1,
-        itemText2: list.itemText2,
-        link1: list.link1,
-        linkText: list.linkText
-      }).createRowCard();
-      document.getElementById("post-wrapper-id13").appendChild(projectCard);
-    }
-  );
-};
-const rowItem14 = () => {
-  topic14.map(list => {
-      const projectCard = new List({
-        itemText1: list.itemText1,
-        itemText2: list.itemText2,
-        link1: list.link1,
-        linkText: list.linkText
-      }).createRowCard();
-      document.getElementById("post-wrapper-id14").appendChild(projectCard);
-    }
-  );
-};
-const rowItem15 = () => {
-  topic15.map(list => {
-      const projectCard = new List({
-        itemText1: list.itemText1,
-        itemText2: list.itemText2,
-        link1: list.link1,
-        linkText: list.linkText
-      }).createRowCard();
-      document.getElementById("post-wrapper-id15").appendChild(projectCard);
-    }
-  );
-};
 
 rowItem1();
 rowItem2();
@@ -250,8 +190,3 @@ rowItem7();
 rowItem8();
 rowItem9();
 rowItem10();
-rowItem11();
-rowItem12();
-rowItem13();
-rowItem14();
-rowItem15();
