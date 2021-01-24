@@ -320,6 +320,12 @@ const topic3 = [
     itemText2: "Q12",
     link1: "https://codeforces.com/problemset/problem/300/C",
     linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "More Problem",
+    link1: "https://codeforces.com/problemset?tags=number%20theory",
+    linkText: "codeforces"
   }
 ];
 const topic4 = [
