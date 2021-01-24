@@ -127,6 +127,11 @@ h1 {
   max-width: 20rem;
   border-radius: .5rem;
 }
+#pic{
+  height: 250px;
+  width: 350px;
+  object-fit: 100%;
+}
 .right-content{
   margin-left: 2rem;
 }
