@@ -34,7 +34,7 @@ const memberData = [
     {
         memberName: "Nitin Modi",
         memberDescription:"Hi I am Nitin Modi, I am a Competitive Programmer and ML Enthusiast. || ECE 2021",
-        memberImage: "./images/banner4.jpg",
+        memberImage: "./images/nitin.jpeg",
         codeforcesLink: "https://codeforces.com/profile/modi_nitin13",
         codechefLink: "https://www.codechef.com/users/modi_nitin13",
         leetcode: "https://leetcode.com/modi_nitin13/",
@@ -74,7 +74,7 @@ const memberData = [
     {
         memberName: "Abhishek Pal",
         memberDescription:"Hi I am Abhishek Pal, I am a Competitive Programmer and Web Developer. || ECE 2021",
-        memberImage: "./images/abhishek.jpeg",
+        memberImage: "./images/abhishek2.jpeg",
         codeforcesLink: "https://codeforces.com",
         codechefLink: "https://codechef.com",
         leetcode: "https://leetcode.com",
@@ -154,7 +154,7 @@ const memberData = [
     {
         memberName: "Udit Khemka",
         memberDescription:"Hi I am Udit Khemka, I am a Competitive Programmer and Web Developer.|| ECE 2022",
-        memberImage: "./images/banner4.jpg",
+        memberImage: "./images/udit.jpeg",
         codeforcesLink: "https://codeforces.com/profile/uditkhemka",
         codechefLink: "https://codechef.com",
         leetcode: "https://leetcode.com",
