@@ -180,6 +180,31 @@ h1 {
   min-width: 110px;
   max-width: 110px;
 }
+.btn1{
+  text-decoration: none;
+  text-transform: uppercase;
+  /* font-weight: 900; */
+  font-size: 1rem;
+  text-align: center;
+  padding: 0rem 0.5rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  display: inline-block;
+  color: #fff;
+  letter-spacing: 0;
+  background-image: linear-gradient(to right, #160b03 0%, #ca641c 100%);
+  border: double 0.1rem transparent;
+  box-shadow: 0 0.5rem 1rem #160b03;
+  min-width: 110px;
+  max-width: 110px;
+}
+.btn1:hover{
+  border: .1rem solid #160b03;
+  color: #222;
+  background-color: #fff;
+  box-shadow: none;
+  background-image: none;
+}
 .btn0:hover{
   border: .1rem solid #160b03;
   color: #222;
