@@ -113,7 +113,7 @@ const memberData = [
     },
     {
         memberName: "Amar Lal Singh",
-        memberDescription:"Hi I am Amar Lal Singh, I am a Competitive Programmer and ML Enthusiast.|| EE 2022",
+        memberDescription:"Hi I am Amar Lal Singh, I am a Competitive Programmer and ML Enthusiast.|| CSE 2022",
         memberImage: "./images/amar.jpeg",
         codeforcesLink: "https://codeforces.com/profile/Amar1503",
         codechefLink: "https://www.codechef.com/users/amar1503",
