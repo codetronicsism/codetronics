@@ -172,7 +172,7 @@ const topic2 = [
   {
     itemText1: "Tutorial",
     itemText2: "Number Theory-I",
-    link1: "https://drive.google.com/file/d/1kB9fUGaqpT4YVkCK0gjg35jVOFPqfWnp/view?usp=sharing",
+    link1: "https://drive.google.com/file/d/1ChR3c_Hp-iMCUv276v2Q5TQC5yYoMWsG/view?usp=sharing",
     linkText: "Doc"
   },
   {
@@ -246,7 +246,7 @@ const topic3 = [
   {
     itemText1: "Tutorial",
     itemText2: "Number theory-II",
-    link1: "  https://drive.google.com/file/d/1ehc30oqvwhpr7ONVyT6kuJaEp7-NgbSv/view?usp=sharing",
+    link1: "https://drive.google.com/file/d/1W-smBDucyhR0xxHtCr9I206hQpTfk1UG/view?usp=sharing",
     linkText: "doc"
   },
   {
@@ -329,7 +329,180 @@ const topic3 = [
   }
 ];
 const topic4 = [
-  
+  {
+    itemText1: "Tutorial",
+    itemText2: "Binary Search",
+    link1: "https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/",
+    linkText: "Blog"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Binary Search",
+    link1: "https://www.youtube.com/watch?v=GU7DpgHINWQ&feature=youtu.be",
+    linkText: "you-tube"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Binary Search",
+    link1: "https://codeforces.com/edu/course/2/lesson/6/1",
+    linkText: "CF-EDU"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Ternary Search",
+    link1: "https://cp-algorithms.com/num_methods/ternary_search.html",
+    linkText: "Blog"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Binary Search",
+    link1: "https://drive.google.com/file/d/1bSgH-bUHyubkFWr2_r0DFEkbcVbOfeXA/view?usp=sharing",
+    linkText: "Doc"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q1",
+    link1: "https://leetcode.com/problems/valid-perfect-square/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q2",
+    link1: "https://leetcode.com/problems/sqrtx/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q3",
+    link1: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q4",
+    link1: "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q5",
+    link1: "https://practice.geeksforgeeks.org/problems/equalize-the-towers2804/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q6",
+    link1: "https://practice.geeksforgeeks.org/problems/find-the-minimum-time0253/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q7",
+    link1: "https://www.spoj.com/problems/NOTATRI/",
+    linkText: "SPOJ"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q8",
+    link1: "https://www.spoj.com/problems/HACKRNDM/",
+    linkText: "SPOJ"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q9",
+    link1: "https://www.spoj.com/problems/PIE/",
+    linkText: "SPOJ"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q10",
+    link1: "https://www.spoj.com/problems/VENOM/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q11",
+    link1: "https://codeforces.com/contest/1119/problem/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q12",
+    link1: "https://codeforces.com/problemset/problem/760/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q13",
+    link1: "https://codeforces.com/problemset/problem/75/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q14",
+    link1: "https://codeforces.com/problemset/problem/1195/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q15",
+    link1: "https://codeforces.com/problemset/problem/1077/D",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q16",
+    link1: "https://codeforces.com/problemset/problem/706/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q17",
+    link1: "https://codeforces.com/contest/68/problem/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q18",
+    link1: "https://codeforces.com/contest/1345/problem/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q19",
+    link1: "https://codeforces.com/contest/991/problem/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q20",
+    link1: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/description/",
+    linkText: "hackerearth"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q21",
+    link1: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-furious-five-69521576/description/",
+    linkText: "hackerearth"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q22",
+    link1: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/c-impresses-everyone/description/",
+    linkText: "hackerearth"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q23",
+    link1: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/",
+    linkText: "hackerearth"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q24",
+    link1: "https://codeforces.com/edu/course/2/lesson/6/1/practice",
+    linkText: "cf-edu"
+  }
 ];
 const topic5 = [
   
