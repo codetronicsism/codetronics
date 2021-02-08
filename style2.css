@@ -161,6 +161,8 @@ h1 {
   background-image: linear-gradient(to right, #160b03 0%, #ca641c 100%);
   border: double 0.1rem transparent;
   box-shadow: 0 0.5rem 1rem rgba(118,85,225,0.3);
+  min-width: 100px;
+  max-width: 100px;
 }
 .btn0{
   text-decoration: none;
@@ -219,6 +221,10 @@ h1 {
   .btn0{
     min-width: 100px;
     max-width: 100px;
+  }
+  .item1{
+    min-width: 90px;
+    max-width: 90px;
   }
 }
 
@@ -279,6 +285,7 @@ h1 {
   color: #fff;
   text-align: center;
   padding: 1rem;
+  /* border-top: 2px solid #5a2d0c; */
 }
 @media screen and (max-width: 868px) {
   .end-of-page{
