@@ -505,10 +505,152 @@ const topic4 = [
   }
 ];
 const topic5 = [
-  
+  {
+    itemText1: "Tutorial",
+    itemText2: "String Algorithm",
+    link1: "https://drive.google.com/file/d/1HPUXjS2CRUWTXZshd2qfLSubEt89ku-t/view?usp=sharing",
+    linkText: "Doc"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Bit-Manipulation",
+    link1: "http://bit.ly/36JYTO8",
+    linkText: "Hackerearth"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Bit-Manipulation",
+    link1: "https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/",
+    linkText: "Hackerearth"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Bit-Manipulation",
+    link1: "https://drive.google.com/file/d/1Tu676xZXvEKL7GBDpLr3LN03aIgwVKCw/view?usp=sharing",
+    linkText: "Doc"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "2-Pointer & Recursion",
+    link1: "https://drive.google.com/file/d/1AQKGVkGGGZ7mYUnO8y4Otc9lsbJA6xDR/view?usp=sharing",
+    linkText: "Doc"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q1",
+    link1: "https://www.spoj.com/problems/NHAY/",
+    linkText: "SPOJ"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q2",
+    link1: "https://www.spoj.com/problems/NAJPF/",
+    linkText: "SPOJ"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q3",
+    link1: "https://www.spoj.com/problems/HOTELS/",
+    linkText: "SPOJ"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q4",
+    link1: " https://practice.geeksforgeeks.org/problems/anagram-palindrome/0/?category[]=Strings&category[]=Strings&page=1&sortBy=submissions&query=category[]Stringspage1sortBysubmissionscategory[]Strings ",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q5",
+    link1: "https://www.codechef.com/problems/ZMBI3",
+    linkText: "Codechef"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q6",
+    link1: " https://codeforces.com/contest/625/problem/B",
+    linkText: "Codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q7",
+    link1: " https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/ ",
+    linkText: "interviewbit"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q8",
+    link1: "https://codeforces.com/edu/course/2/lesson/9",
+    linkText: "Cf-edu"
+  }
 ];
 const topic6 = [
-  
+  {
+    itemText1: "Tutorial",
+    itemText2: "Miscellaneous-I",
+    link1: "https://cp-algorithms.com/",
+    linkText: "CP-Algo"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Miscellaneous-I",
+    link1: "https://codeforces.com/edu/course/2",
+    linkText: "cf-edu"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Miscellaneous-I",
+    link1: "https://codeforces.com/blog/entry/55274",
+    linkText: "Codeforces"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Miscellaneous-I",
+    link1: "https://codeforces.com/blog/entry/13529",
+    linkText: "Codeforces"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Miscellaneous-I",
+    link1: "https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation",
+    linkText: "Codechef"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Miscellaneous-I",
+    link1: "https://discuss.codechef.com/t/data-structures-and-algorithms/6599",
+    linkText: "Codechef"
+  },
+  {
+    itemText1: "Video",
+    itemText2: "Miscellaneous-I",
+    link1: "https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg",
+    linkText: "You-tube"
+  },
+  {
+    itemText1: "Video",
+    itemText2: "Miscellaneous-I",
+    link1: "https://m.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ",
+    linkText: "You-tube"
+  },
+  {
+    itemText1: "Video",
+    itemText2: "Miscellaneous-I",
+    link1: "https://m.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw",
+    linkText: "You-tube"
+  },
+  {
+    itemText1: "Video",
+    itemText2: "Miscellaneous-I",
+    link1: "https://m.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw",
+    linkText: "You-tube"
+  },
+  {
+    itemText1: "Text-Book",
+    itemText2: "Miscellaneous-I",
+    link1: "https://drive.google.com/file/d/12dm9Be8SIttupCMzT5mGhJXnHTqW8mcV/view?usp=sharing",
+    linkText: "Textbook"
+  }
 ];
 const topic7 = [
   
