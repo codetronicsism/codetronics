@@ -587,6 +587,322 @@ const topic5 = [
 const topic6 = [
   {
     itemText1: "Tutorial",
+    itemText2: "Dynamic programming-I",
+    link1: "https://drive.google.com/file/d/1QhSuHz_zfWm7EJx3csSL5B3lg6S2PEQ9/view?usp=sharing",
+    linkText: "Doc"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Dynamic programming-II",
+    link1: "https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/",
+    linkText: "Blog"
+  },
+  {
+    itemText1: "Video",
+    itemText2: "Dynamic programming-II",
+    link1: "https://youtube.com/playlist?list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo",
+    linkText: "You-tube"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q1",
+    link1: "https://codeforces.com/problemset/problem/189/A",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q2",
+    link1: "https://codeforces.com/contest/489/problem/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q3",
+    link1: "https://codeforces.com/problemset/problem/1343/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q4",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_a",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q5",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_b",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q6",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_c",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q7",
+    link1: "https://leetcode.com/problems/coin-change-2/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q8",
+    link1: "https://leetcode.com/problems/coin-change/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q9",
+    link1: "https://leetcode.com/problems/minimum-path-sum/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q10",
+    link1: "https://leetcode.com/problems/climbing-stairs/description/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q11",
+    link1: "https://leetcode.com/problems/min-cost-climbing-stairs/description/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q12",
+    link1: "https://leetcode.com/problems/unique-paths/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q13",
+    link1: "https://practice.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q14",
+    link1: "https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q15",
+    link1: "https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/?sort_by=partially%20solved&p_level=E",
+    linkText: "hackerearth"
+  }
+];
+const topic7 = [
+  {
+    itemText1: "Tutorial",
+    itemText2: "Dynamic programming-II",
+    link1: "https://drive.google.com/file/d/1SK6YYabVd8CPcPCGrwRgM-GJ_Ex2vkw7/view?usp=sharing",
+    linkText: "Doc"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Dynamic programming-II",
+    link1: "https://drive.google.com/file/d/1ezyGkcq3itLQxSeRVzlJSQu-z_yr9Xgu/view?usp=sharing",
+    linkText: "Doc"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Dynamic programming-II",
+    link1: "https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/tutorial/",
+    linkText: "Blog"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q1",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_d",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q2",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_e",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q3",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_f",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q4",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_h",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q5",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_i",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q6",
+    link1: "https://atcoder.jp/contests/dp/tasks/dp_n",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q7",
+    link1: "https://atcoder.jp/contests/abc129/tasks/abc129_c",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q8",
+    link1: "https://atcoder.jp/contests/abc153/tasks/abc153_e",
+    linkText: "atcoder"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q9",
+    link1: "https://www.spoj.com/problems/TRT/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q10",
+    link1: "https://www.spoj.com/problems/COINS/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q11",
+    link1: "https://www.spoj.com/problems/BEHAPPY/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q12",
+    link1: "https://www.spoj.com/problems/FARIDA/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q13",
+    link1: "https://www.spoj.com/problems/SQRBR/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q14",
+    link1: "https://www.spoj.com/problems/DIEHARD/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q15",
+    link1: "https://www.spoj.com/problems/DSUBSEQ/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q16",
+    link1: "https://www.spoj.com/problems/ROCK/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q17",
+    link1: "https://www.spoj.com/problems/ACODE/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q18",
+    link1: "https://www.spoj.com/problems/EDIST/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q19",
+    link1: "https://www.spoj.com/problems/MIXTURES/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q20",
+    link1: "https://codeforces.com/problemset/problem/1245/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q21",
+    link1: "https://codeforces.com/problemset/problem/327/A",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q22",
+    link1: "https://codeforces.com/contest/455/problem/A",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q23",
+    link1: "https://www.interviewbit.com/problems/subset-sum-problem/",
+    linkText: "interviewbit"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q24",
+    link1: "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/",
+    linkText: "interviewbit"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q25",
+    link1: "https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii",
+    linkText: "interviewbit"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q26",
+    link1: "https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q27",
+    link1: "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q28",
+    link1: "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q29",
+    link1: "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q30",
+    link1: "https://leetcode.com/problems/split-array-largest-sum/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q31",
+    link1: "https://leetcode.com/problems/wildcard-matching/description/",
+    linkText: "leetcode"
+  }
+];
+const topic8 = [
+  {
+    itemText1: "Tutorial",
     itemText2: "Miscellaneous-I",
     link1: "https://cp-algorithms.com/",
     linkText: "CP-Algo"
@@ -651,12 +967,6 @@ const topic6 = [
     link1: "https://drive.google.com/file/d/12dm9Be8SIttupCMzT5mGhJXnHTqW8mcV/view?usp=sharing",
     linkText: "Textbook"
   }
-];
-const topic7 = [
-  
-];
-const topic8 = [
-  
 ];
 const topic9 = [
   
