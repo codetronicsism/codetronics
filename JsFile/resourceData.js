@@ -903,6 +903,280 @@ const topic7 = [
 const topic8 = [
   {
     itemText1: "Tutorial",
+    itemText2: "Graph-I",
+    link1: "https://docs.google.com/document/d/1usya5AzuPS4bl2RqnJoqt3ce8BOiU3OITOIlHAJi5fk/edit?usp=sharing",
+    linkText: "DOC"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q1",
+    link1: "https://www.spoj.com/problems/LABYR1/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q2",
+    link1: "https://www.spoj.com/problems/PT07Y/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q3",
+    link1: "https://www.spoj.com/problems/PT07Z/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q4",
+    link1: "https://www.spoj.com/problems/BITMAP/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q5",
+    link1: "https://www.spoj.com/problems/PYRA/",
+    linkText: "spoj"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q6",
+    link1: "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q7",
+    link1: "https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1",
+    linkText: "GFG"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q8",
+    link1: "https://cses.fi/problemset/task/1666/",
+    linkText: "cses"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q9",
+    link1: "https://cses.fi/problemset/task/1193",
+    linkText: "cses"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q10",
+    link1: "https://leetcode.com/problems/01-matrix/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q11",
+    link1: "https://leetcode.com/problems/number-of-islands/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q12",
+    link1: "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+    linkText: "leetcode"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q13",
+    link1: "https://www.hackerrank.com/challenges/bfsshortreach/problem",
+    linkText: "hackerrank"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q14",
+    link1: "https://www.hackerrank.com/challenges/the-quickest-way-up/problem",
+    linkText: "hackerrank"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q15",
+    link1: "https://codeforces.com/problemset/problem/862/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q16",
+    link1: "https://codeforces.com/problemset/problem/1433/D",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q17",
+    link1: "https://codeforces.com/problemset/problem/893/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q18",
+    link1: "https://codeforces.com/contest/902/problem/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q19",
+    link1: "https://codeforces.com/problemset/problem/1037/D",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q20",
+    link1: "https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/prison-break-5/",
+    linkText: "hackerearth"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q21",
+    link1: "https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/",
+    linkText: "hackerearth"
+  }
+];
+const topic9 = [
+  {
+    itemText1: "Tutorial",
+    itemText2: "Graph-II",
+    link1: "https://docs.google.com/document/d/1ev-Juh-s-XO9DTAjzxEGLX26wQMctiKIGyT0yKLtBPw/edit?usp=sharing",
+    linkText: "DOC"
+  },
+  {
+    itemText1: "Tutorial",
+    itemText2: "Graph-II",
+    link1: "https://docs.google.com/document/d/1Z268CVkot0ZhUx0xyyA_Bkok6HSPi9UcvPapDNtiKQ0/edit?usp=sharing",
+    linkText: "DOC"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q1",
+    link1: "https://codeforces.com/contest/20/problem/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q2",
+    link1: "https://codeforces.com/problemset/problem/1249/B2",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q3",
+    link1: "https://codeforces.com/problemset/problem/755/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q4",
+    link1: "https://codeforces.com/problemset/problem/1167/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q5",
+    link1: "https://codeforces.com/problemset/problem/843/A",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q6",
+    link1: "https://codeforces.com/problemset/problem/500/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q7",
+    link1: "https://codeforces.com/contest/25/problem/C",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q8",
+    link1: "https://codeforces.com/contest/1063/problem/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q9",
+    link1: "https://codeforces.com/problemset/problem/1437/D",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q10",
+    link1: "https://codeforces.com/problemset/problem/1365/D",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q11",
+    link1: "https://codeforces.com/problemset/problem/1176/E",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q12",
+    link1: "https://codeforces.com/problemset/problem/598/D",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q13",
+    link1: "https://codeforces.com/contest/17/problem/B",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q14",
+    link1: "https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/D",
+    linkText: "codeforces"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q15",
+    link1: "https://codeforces.com/edu/course/2/lesson/7",
+    linkText: "cf-edu"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q16",
+    link1: "https://cses.fi/problemset/task/1676/",
+    linkText: "cses"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q17",
+    link1: "https://www.hackerrank.com/challenges/kruskalmstrsub",
+    linkText: "hackerrank"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q18",
+    link1: "https://www.hackerrank.com/challenges/primsmstsub",
+    linkText: "hackerrank"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q19",
+    link1: "https://www.hackerrank.com/challenges/dijkstrashortreach",
+    linkText: "hackerrank"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q20",
+    link1: "https://www.hackerrank.com/challenges/merging-communities/problem",
+    linkText: "hackerrank"
+  },
+  {
+    itemText1: "Problem",
+    itemText2: "Q21",
+    link1: "https://www.spoj.com/problems/ARBITRAG/",
+    linkText: "spoj"
+  }
+];
+const topic10 = [
+  {
+    itemText1: "Tutorial",
     itemText2: "Miscellaneous-I",
     link1: "https://cp-algorithms.com/",
     linkText: "CP-Algo"
@@ -967,10 +1241,4 @@ const topic8 = [
     link1: "https://drive.google.com/file/d/12dm9Be8SIttupCMzT5mGhJXnHTqW8mcV/view?usp=sharing",
     linkText: "Textbook"
   }
-];
-const topic9 = [
-  
-];
-const topic10 = [
-  
 ];
