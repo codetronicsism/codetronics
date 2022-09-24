@@ -129,7 +129,7 @@ class Member {
 }
 
 const createCards = () => {
-    memberData.map(member => {
+    memberDataCurrent.map(member => {
         const projectCard = new Member({
           memberName: member.memberName,
           memberDescription: member.memberDescription,
@@ -140,7 +140,33 @@ const createCards = () => {
           hackerrank: member.hackerrank,
           linkedIn: member.linkedIn,
         }).createProjectCard();
-        document.getElementById("member-wrapper-id").appendChild(projectCard);
+        document.getElementById("member-wrapper-id-current").appendChild(projectCard);
+    });
+    memberDataAlumni21.map(member => {
+        const projectCard = new Member({
+          memberName: member.memberName,
+          memberDescription: member.memberDescription,
+          memberImage: member.memberImage,
+          codeforcesLink: member.codeforcesLink,
+          codechefLink: member.codechefLink,
+          leetcode: member.leetcode,
+          hackerrank: member.hackerrank,
+          linkedIn: member.linkedIn,
+        }).createProjectCard();
+        document.getElementById("member-wrapper-id-alumni21").appendChild(projectCard);
+    });
+    memberDataAlumni22.map(member => {
+        const projectCard = new Member({
+          memberName: member.memberName,
+          memberDescription: member.memberDescription,
+          memberImage: member.memberImage,
+          codeforcesLink: member.codeforcesLink,
+          codechefLink: member.codechefLink,
+          leetcode: member.leetcode,
+          hackerrank: member.hackerrank,
+          linkedIn: member.linkedIn,
+        }).createProjectCard();
+        document.getElementById("member-wrapper-id-alumni22").appendChild(projectCard);
     });
 };
 
