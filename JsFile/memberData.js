@@ -189,7 +189,7 @@ const memberDataCurrent = [
     {
         memberName: "Swaraj Jain",
         memberDescription:  "This is Swaraj || ECE 2023",
-        memberImage: "./images/swaraj.jpg",
+        memberImage: "./images/happy.jpg",
         codeforcesLink: "https://codeforces.com/profile/happy2000jain",
         codechefLink: "https://www.codechef.com/users/swaraj_jain30",
         leetcode: "https://leetcode.com/swaraj_jain30/",
