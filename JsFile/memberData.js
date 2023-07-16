@@ -175,7 +175,7 @@ const memberDataAlumni22 = [
         linkedIn: "https://www.linkedin.com/in/utkarsh-kumar-1755b7135/"
     }
 ];
-const memberDataCurrent = [
+const memberDataAlumni23 = [
     {
         memberName: "Nayan Kumar",
         memberDescription:  "Hi, I am Nayan Kumar a Competitive Programmer and Web Developer || ECE 2023",
@@ -234,7 +234,7 @@ const memberDataCurrent = [
         linkedIn: ""
     },{
         memberName: "Bhavesh Sharma",
-        memberDescription:  "",
+        memberDescription:  "Hi, I am Bhavesh Sharma, a Competitive Programmer and App Developer || EE 2023",
         memberImage: "./images/default.jpg",
         codeforcesLink: "",
         codechefLink: "",
@@ -242,6 +242,25 @@ const memberDataCurrent = [
         hackerrank: "",
         linkedIn: ""
     },{
+        memberName: "Shaurya Upadhyay",
+        memberDescription:  "Hi, I am Shaurya Upadhyay, a Competitive Programmer and Web Developer || EE 2023",
+        memberImage: "./images/default.jpg",
+        codeforcesLink: "https://codeforces.com/profile/Shaurya",
+        codechefLink: "https://www.codechef.com/users/shaurya_upd",
+        leetcode: "https://leetcode.com/shaurya_upd/",
+        hackerrank: "https://www.hackerrank.com/shyamshaurya_upd?hr_r=1",
+        linkedIn: "https://www.linkedin.com/in/shaurya-upadhyay"
+    },{
+        memberName: "Shashank Chaudhary",
+        memberDescription:  "Hi, I am Shashank Chaudhary, a Competitive Programmer and Web Developer || EE 2023",
+        memberImage: "./images/shashank.jpeg",
+        codeforcesLink: "https://codeforces.com/profile/shashankk",
+        codechefLink: "https://www.codechef.com/users/shashank1012",
+        leetcode: "https://leetcode.com/Shashank1012/",
+        hackerrank: "",
+        linkedIn: "https://www.linkedin.com/in/shashank-chaudhary-a30797126/"
+    }];
+    const memberDataCurrent=[{
         memberName: "Joe Aashish",
         memberDescription:  "This is Joe, a Competitive Programmer and Full Stack Web Developer || ECE 2024",
         memberImage: "./images/joe.jpg",
@@ -263,9 +282,9 @@ const memberDataCurrent = [
         memberName: "Lakshya Pant ",
         memberDescription:  "Hi, I am Lakshya Pant, a Competitive Programmer and Web Developer. || ECE 2024",
         memberImage: "./images/lakshya.jpg",
-        codeforcesLink: "",
+        codeforcesLink: "https://codeforces.com/profile/Lakshya14",
         codechefLink: "",
-        leetcode: "",
+        leetcode: "https://leetcode.com/Lakshya14/",
         hackerrank: "",
         linkedIn: ""
     },{
@@ -279,7 +298,7 @@ const memberDataCurrent = [
         linkedIn: "https://www.linkedin.com/in/udbhav-sharma-9b10b5201/"
     },{
         memberName: "Harsh Gupta",
-        memberDescription:  "Competitive Programmer || ECE 2024",
+        memberDescription:  " StopStalk handle - hgharsh12",
         memberImage: "./images/default.jpg",
         codeforcesLink: "https://codeforces.com/profile/hgharsh12",
         codechefLink: "https://www.codechef.com/users/hgharsh12",
@@ -316,7 +335,7 @@ const memberDataCurrent = [
     },{
         memberName: "Abhilash Reddy ",
         memberDescription:  "Hi, I am Abhilash Reddy a Competitive Programmer and Web Developer|| CSE 2024",
-        memberImage: "./images/default.jpg",
+        memberImage: "./images/abhilash.jpg",
         codeforcesLink: "https://codeforces.com/profile/abhilash_8642",
         codechefLink: "https://www.codechef.com/users/abhilash_1_2_3",
         leetcode: "https://leetcode.com/__mr__abhilash/",
