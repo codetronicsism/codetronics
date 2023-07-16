@@ -168,6 +168,19 @@ const createCards = () => {
         }).createProjectCard();
         document.getElementById("member-wrapper-id-alumni22").appendChild(projectCard);
     });
+    memberDataAlumni23.map(member => {
+        const projectCard = new Member({
+          memberName: member.memberName,
+          memberDescription: member.memberDescription,
+          memberImage: member.memberImage,
+          codeforcesLink: member.codeforcesLink,
+          codechefLink: member.codechefLink,
+          leetcode: member.leetcode,
+          hackerrank: member.hackerrank,
+          linkedIn: member.linkedIn,
+        }).createProjectCard();
+        document.getElementById("member-wrapper-id-alumni23").appendChild(projectCard);
+    });
 };
 
 createCards();
