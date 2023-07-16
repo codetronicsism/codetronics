@@ -235,7 +235,7 @@ const memberDataAlumni23 = [
     },{
         memberName: "Bhavesh Sharma",
         memberDescription:  "Hi, I am Bhavesh Sharma, a Competitive Programmer and App Developer || EE 2023",
-        memberImage: "./images/default.jpg",
+        memberImage: "./images/bhavesh.jpg",
         codeforcesLink: "",
         codechefLink: "",
         leetcode: "",
@@ -244,7 +244,7 @@ const memberDataAlumni23 = [
     },{
         memberName: "Shaurya Upadhyay",
         memberDescription:  "Hi, I am Shaurya Upadhyay, a Competitive Programmer and Web Developer || EE 2023",
-        memberImage: "./images/default.jpg",
+        memberImage: "./images/shaurya.jpg",
         codeforcesLink: "https://codeforces.com/profile/Shaurya",
         codechefLink: "https://www.codechef.com/users/shaurya_upd",
         leetcode: "https://leetcode.com/shaurya_upd/",
@@ -290,7 +290,7 @@ const memberDataAlumni23 = [
     },{
         memberName: "Udbhav Sharma",
         memberDescription:  "Hi, I am Udbhav Sharma, a Competitive Programmer, Web Developer and ML Enthusiast || ECE 2024",
-        memberImage: "./images/default.jpg",
+        memberImage: "./images/udbhav.jpg",
         codeforcesLink: "https://codeforces.com/profile/udbhavsharma",
         codechefLink: "https://www.codechef.com/users/udbhavsharma",
         leetcode: "https://leetcode.com/udbhavsharma0/",
@@ -299,7 +299,7 @@ const memberDataAlumni23 = [
     },{
         memberName: "Harsh Gupta",
         memberDescription:  " StopStalk handle - hgharsh12",
-        memberImage: "./images/default.jpg",
+        memberImage: "./images/Harsh.jpg",
         codeforcesLink: "https://codeforces.com/profile/hgharsh12",
         codechefLink: "https://www.codechef.com/users/hgharsh12",
         leetcode: "https://leetcode.com/hgharsh12/",
